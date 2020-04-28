@@ -5,4 +5,5 @@ public class User {
     private String name;
     private int id;
     private String age;
+    private String interest;
 }
